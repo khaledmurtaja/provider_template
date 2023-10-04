@@ -1,0 +1,18 @@
+{
+  "noInternetConnection": "No internet connection!",
+  "serverError": "Server error",
+  "serverNotResponding": "Server is not responding!",
+  "noUrlFound": "Url not found",
+  "tryAgain": "try again",
+  "myAccount": "My Account",
+  "home":"Home",
+  "myOrders": "Orders",
+  "notifications": "Notifications",
+  "myData": "My Data",
+  "name": "Jacob Alaa El Din",
+  "city": "Berlin",
+  "reportNo": "3434131",
+  "phoneNum": "05997102594",
+  "appLanguage": "App language"
+
+}

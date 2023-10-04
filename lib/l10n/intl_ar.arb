@@ -1,0 +1,21 @@
+{
+  "noInternetConnection": "لا يوجد إتصال بالإنترنت",
+  "serverError": "مشكلة من السيرفر",
+  "serverNotResponding": "لا يوجد إستجابة من السيرفر!",
+  "noUrlFound": "لا يوجد رابط ",
+  "tryAgain": "حاول مرة اخرى",
+  "myAccount": "حسابي",
+  "home":"الرئيسية",
+  "myOrders": "طلباتي",
+  "notifications": "الإشعارات",
+  "myData": "بياناتي",
+  "name": "يعقوب علاء الدين",
+  "reportNo": "٣٤٢١٣١٣٤",
+  "city": "برلين",
+  "phoneNum": "٠٥٩٩٧١٠٢٥٣٤",
+  "appLanguage": "لغة التطبيق"
+
+
+
+
+}
